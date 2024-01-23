@@ -1,3 +1,5 @@
+## 如何在宝塔面板中安装docker，用于解决在宝塔面板中直接安装失败的问题
+
 手动安装DockerCentOS/RedHat:
 
 1. 删除之前安装的docker
